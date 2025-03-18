@@ -1,4 +1,3 @@
-# AI_Research_Assistant
 # 🤖 AI Research Assistant
 
 ## 📌 Project Overview
